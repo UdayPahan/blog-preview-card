@@ -1,0 +1,9 @@
+.author{
+   display:flex;
+}
+
+.author h1{
+   font-size:1.4rem;
+   align-self: center;
+   padding-left:1rem;
+}
