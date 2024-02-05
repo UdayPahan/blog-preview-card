@@ -1,4 +1,11 @@
 .hero{
    background-color: var(--Yellow);
    display:inline-block;
+   padding:0.5rem;
+   border-radius:5px;
+}
+
+.hero p{
+   font-size: 0.98rem;
+   font-weight: bolder;
 }
