@@ -20,9 +20,4 @@ body{
    align-items: center;
 }
 
- body section{
-   width:80vw;
-   height:70vh;
-   margin-inline:auto;
-   background-color: var(--White);
-} 
+ 
