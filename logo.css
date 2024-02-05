@@ -1,7 +1,6 @@
 .logo{
    display:flex;
    justify-content: center;
-   padding:2rem 0;
    align-items:center;
    
 }
@@ -9,7 +8,6 @@
 .logo svg{
    width:100%;
    height:100%;
-   margin-inline:2rem;
    border-radius:15px;
   
 }
