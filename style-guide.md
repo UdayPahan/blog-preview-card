@@ -27,5 +27,5 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Figtree](https://fonts.google.com/specimen/Figtree)
+- Family: [Figtree](https://github.com/UdayPahan/blog-preview-card.git
 - Weights: 600, 800
