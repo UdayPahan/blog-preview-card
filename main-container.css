@@ -5,4 +5,5 @@
    background-color: var(--White);
    border:3px solid black;
    border-radius:15px;
+   box-shadow: 10px 10px;
 }
