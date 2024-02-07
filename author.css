@@ -12,3 +12,10 @@
    align-self: center;
    padding-left:1rem;
 }
+
+@media (min-width:600px){
+   .author img{
+      width:5vw;
+      height:5vw;
+   }
+}
