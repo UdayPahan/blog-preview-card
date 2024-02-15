@@ -14,3 +14,10 @@
       height:55vw;
    }
 }
+
+@media (min-width:1440px){
+   .main-container{
+      width:25vw;
+      height:60vh;
+   }
+}
